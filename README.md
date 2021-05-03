@@ -1,8 +1,12 @@
 # Speech-Controlled-3D-Hand
-in this project we create an algorithm which records, trains and controls by speech a 3D printed hand.
+in this project we create an algorithm which records and trains a neural network, and controls by speech a 3D printed prosthetic hand.
 
 # Requirements
-this project was on a windows 10, Python 3 environment using anaconda. to run this project we suggest you download and run the txt file we provide.
+this project was on a windows 10 pc and ran in a Python 3 environment using anaconda.
+to run this project we you will need to following libraries:
+
+
+run "pip install *library name*" for each library mentioned.
 
 # collect data and train the model
 we suggest running the code on the anaconda prompt.
@@ -14,8 +18,7 @@ to change specific parameters- names of movements will be determined in lines __
 threshold will be in line __ in the file __ .
 
 we would like to thank the following projects which we used and attributed to our finished project:
-https://github.com/wangshub/python-vad
-https://github.com/gfairchild/pyxDamerauLevenshtein
-https://github.com/VaibhavBhapkar/Speaker-Identification-Using-Machine-Learning
-https://github.com/Uberi/speech_recognition
+https://github.com/wangshub/python-vad , https://github.com/gfairchild/pyxDamerauLevenshtein , 
+https://github.com/VaibhavBhapkar/Speaker-Identification-Using-Machine-Learning , 
+https://github.com/Uberi/speech_recognition , 
 https://github.com/resemble-ai/Resemblyzer
