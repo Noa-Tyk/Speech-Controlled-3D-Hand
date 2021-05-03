@@ -8,7 +8,7 @@ To run this project you will need to following libraries:<br/>
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
 
-Run `pip install _library name_**` for each library mentioned.
+Run `pip install *library name*` for each library mentioned.
 
 ## collect data and train the model
 We suggest running the code on the anaconda prompt.<br/>
