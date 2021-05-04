@@ -27,7 +27,7 @@ If the user usually has specific people in his environment, he should record the
 To change specific parameters- names of movements will be determined in lines __ and __ in the file___. <br/>
 Threshold will be in line __ in the file __ .
 
-We would like to thank the following projects which we used and attributed to our finished project:<br/>
+We would like to thank the following projects which we used and helped us reach our finished project:<br/>
 https://github.com/wangshub/python-vad , https://github.com/gfairchild/pyxDamerauLevenshtein , 
 https://github.com/VaibhavBhapkar/Speaker-Identification-Using-Machine-Learning , 
 https://github.com/Uberi/speech_recognition , 
