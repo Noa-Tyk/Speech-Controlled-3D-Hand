@@ -4,13 +4,12 @@ In this project we create an algorithm which records data and trains a neural ne
 ## Requirements
 This project was ran on a Windows 10 PC and in a Python 3.6+ environment using anaconda.<br/>
 To run this project you will need to following libraries:<br/>
-* webrtcvad - `pip install webrtcvad`
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
-* numpy - `pip install numpy`
 * SpeechRecognition - `pip install SpeechRecognition`
-* matplotlib - `pip install matplotlib`
 * resemblyzer - `pip install resemblyzer`
+* tqdm - `pip install tqdm`
+* pathlib - `pip install pathlib`
 
 Run `pip install *library name*` for each library mentioned.
 
