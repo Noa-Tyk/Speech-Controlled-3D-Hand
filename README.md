@@ -16,6 +16,7 @@ To download on your own run the following lines:
 * resemblyzer - `pip install resemblyzer`
 * tqdm - `pip install tqdm`
 * pathlib - `pip install pathlib`
+* matplotlib - `pip install matplotlib`
 
 ## Collect Data And Train The Model
 We suggest running the code on the anaconda prompt.<br/>
