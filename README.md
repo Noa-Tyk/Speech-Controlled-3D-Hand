@@ -8,15 +8,14 @@ to create the environment follow the code:<br/>
 `conda activate env_name`<br/>
 `pip install -r requirements.txt`<br/>
 <br/>
-To run this project you will need to following libraries:<br/>
+To run this project you will need to following libraries (which are included in the requierments.txt file)<br/>
+To download on your own run the following lines:
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
 * SpeechRecognition - `pip install SpeechRecognition`
 * resemblyzer - `pip install resemblyzer`
 * tqdm - `pip install tqdm`
 * pathlib - `pip install pathlib`
-
-Run `pip install *library name*` for each library mentioned.
 
 ## Collect Data And Train The Model
 We suggest running the code on the anaconda prompt.<br/>
