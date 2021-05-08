@@ -3,6 +3,11 @@ In this project we create an algorithm which records data and trains a neural ne
 
 ## Requirements
 This project was ran on a Windows 10 PC and in a Python 3.6+ environment using anaconda.<br/>
+to create the environment follow the code:
+'conda create --name env_name python=3.6'<br/>
+'conda activate env_name'<br/>
+'pip install -r requirements.txt'<br/>
+<br/>
 To run this project you will need to following libraries:<br/>
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
