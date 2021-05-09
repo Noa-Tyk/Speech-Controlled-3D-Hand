@@ -4,7 +4,7 @@ In this project we create an algorithm which records data and trains a neural ne
 ## Requirements
 This project was ran on a Windows 10 PC and in a Python 3.6+ environment using anaconda.<br/>
 To create the environment follow the code:<br/>
-`conda create --name env_name python=3.6`(change "env_name" to the name you want for the environment you are creating)<br/>
+`conda create --name env_name python=3.6` (change "env_name" to the name you want for the environment you are creating)<br/>
 `conda activate env_name`<br/>
 `pip install -r requirements.txt`<br/>
 <br/>
