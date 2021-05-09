@@ -20,7 +20,7 @@ To download on your own run the following lines:
 
 ## Collect Data And Train The Model
 We suggest running the code on the anaconda prompt.<br/>
-To record new users - run the file: "python identify_speaker.py" on the anaconda prompt
+To record new users - run the line: "python verification_model.py" on the anaconda prompt and add them to the train-set.
 we suggest that the user will be called **user** in those recordings.
 There will be 10 recordings per speaker- one for each preset of a hand movement.<br/>
 Notice that each one of the 10 recordings will include the sentence "okay hand *keyword*" multiple times.<br/>
