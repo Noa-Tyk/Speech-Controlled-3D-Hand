@@ -31,7 +31,7 @@ If the user regularly has specific people in his daily environment, we suggest h
 To change specific parameters- enter the `params.py` file and save your changes. <br/>
 
 We would like to thank the following projects which we used and helped us reach our finished project:<br/>
-https://github.com/wangshub/python-vad , https://github.com/gfairchild/pyxDamerauLevenshtein , 
+https://github.com/wangshub/python-vad , 
 https://github.com/VaibhavBhapkar/Speaker-Identification-Using-Machine-Learning , 
 https://github.com/Uberi/speech_recognition , 
 https://github.com/resemble-ai/Resemblyzer
