@@ -28,8 +28,7 @@ Notice that each one of the 10 recordings will include the sentence "okay hand *
 If the user regularly has specific people in his daily environment, we suggest he should record them as well for better speaker verification results.
 
 ## Parameter Changes
-To change specific parameters- names of movements will be determined in lines __ and __ in the file___. <br/>
-Threshold will be in line __ in the file __ .
+To change specific parameters- enter the `params.py` file and save your changes. <br/>
 
 We would like to thank the following projects which we used and helped us reach our finished project:<br/>
 https://github.com/wangshub/python-vad , https://github.com/gfairchild/pyxDamerauLevenshtein , 
