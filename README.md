@@ -8,7 +8,7 @@ To create the environment follow the code:<br/>
 `conda activate env_name`<br/>
 `pip install -r requirements.txt`<br/>
 <br/>
-To run this project you will need to following libraries (which are included in the requierments.txt file)<br/>
+To run this project you will need the following libraries (which are included in the requierments.txt file)<br/>
 To download on your own run the following lines:
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
