@@ -20,13 +20,15 @@ To download on your own run the following lines:
 
 ## Collect Data And Train The Model
 We suggest running the code on the anaconda prompt.<br/>
-To run the main script - run this line: `python main.py`.<br/>
-To record new users - run the line: `python verification_model.py` on the anaconda prompt and add them to the train-set.
-we suggest that the user will be called **user** in those recordings.
+To record new users - run the line: `python verification_model.py` on the anaconda prompt and add them to the train-set.<br/>
+we suggest that the user will be called **user** in those recordings.<br/>
 There will be 10 recordings per speaker- one for each preset of a hand movement.<br/>
 Notice that each one of the 10 recordings will include the sentence "okay hand *keyword*" multiple times.<br/>
 
 If the user regularly has specific people in his daily environment, we suggest he should record them as well for better speaker verification results.
+
+## Run The Program 
+To run the main script - run this line: `python main.py`.<br/>
 
 ## Parameter Changes
 To change specific parameters- enter the `params.py` file and save your changes. <br/>
