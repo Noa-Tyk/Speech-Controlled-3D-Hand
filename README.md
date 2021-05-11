@@ -9,7 +9,7 @@ To create the environment follow the code:<br/>
 `pip install -r requirements.txt`<br/>
 <br/>
 To run this project you will need the following libraries (which are included in the requierments.txt file)<br/>
-To download on your own run the following lines:
+To download the libraries manually, run the following lines:
 * pyaudio - `pip install pyaudio`
 * pyxDamerauLevenshtein - `pip install pyxDamerauLevenshtein`
 * SpeechRecognition - `pip install SpeechRecognition`
