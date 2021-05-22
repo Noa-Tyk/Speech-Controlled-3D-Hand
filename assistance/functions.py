@@ -20,12 +20,12 @@ from assistance.params import *
 def record_audio_train():
     Name =(input("Please Enter Your Name:"))
     Path(os.path.join("audio_files\\training",Name)).mkdir(parents=True, exist_ok=True)
-    for count in range(10):
+    for count in range(recording_for_training):
         FORMAT = pyaudio.paInt16
         CHANNELS = 1
         RATE = 44100
         CHUNK = 512
-        RECORD_SECONDS = 10
+        RECORD_SECONDS = len_rec_training
         audio = pyaudio.PyAudio()
         print("----------------------record device list---------------------")
         info = audio.get_host_api_info_by_index(0)
@@ -63,7 +63,7 @@ def record_audio_test():
     CHANNELS = 1
     RATE = 44100
     CHUNK = 512
-    RECORD_SECONDS = 5
+    RECORD_SECONDS = len_rec_test
     audio = pyaudio.PyAudio()
     print("----------------------record device list---------------------")
     info = audio.get_host_api_info_by_index(0)
