@@ -1,0 +1,8 @@
+resemblyzer
+pyaudio
+SpeechRecognition
+pyxDamerauLevenshtein
+tqdm
+matplotlib
+asyncio
+bleak
