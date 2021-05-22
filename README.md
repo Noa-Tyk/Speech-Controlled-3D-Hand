@@ -17,6 +17,8 @@ To download the libraries manually, run the following lines:
 * tqdm - `pip install tqdm`
 * pathlib - `pip install pathlib`
 * matplotlib - `pip install matplotlib`
+* asyncio - `pip install asyncio`
+* bleak - `pip install bleak`
 
 ## Collect Data And Train The Model
 We suggest running the code on the anaconda prompt.<br/>
