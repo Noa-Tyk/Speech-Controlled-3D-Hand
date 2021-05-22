@@ -1,6 +1,0 @@
-resemblyzer
-pyaudio
-SpeechRecognition
-pyxDamerauLevenshtein
-tqdm
-matplotlib
