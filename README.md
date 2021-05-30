@@ -24,7 +24,7 @@ To download the libraries manually, run the following lines:
 We suggest running the code on the anaconda prompt.<br/>
 run the line: `python verification_model.py` on the anaconda prompt
 
-**there are 3 otyipns when running the code:**
+**there are 3 options when running the code:**
 1) To record new users and add them to the train-set.<br/>
 we suggest that the user will be called **user** in those recordings.<br/>
 There will be 10 recordings per speaker- one for each preset of a hand movement.<br/>
