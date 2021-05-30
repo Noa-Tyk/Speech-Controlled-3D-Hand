@@ -30,7 +30,7 @@ we suggest that the user will be called **user** in those recordings.<br/>
 There will be 10 recordings per speaker- one for each preset of a hand movement.<br/>
 Notice that each one of the 10 recordings will include the sentence "okay hand *keyword*" multiple times. In other words, for every recording you should say the phrase "okay hand *keyword*" for multiple times (until the recording is over) with the same keyword, where *keyword* means a keyword from the list, so that for each recording you use a different keyword from the list.<br/>
 
-  If the user regularly has specific people in his daily environment, we suggest he should record them as well for better speaker verification results.
+    If the user regularly has specific people in his daily environment, we suggest he should record them as well for better speaker verification results.
 
 2) Press '2' - "Record audio for testing" - To record a test recording.<br/> You would only need to type your input device, and the recording will start right away. There can only be one test recording and it will automatically change to the latest one recorded. You can use it to check the speaker verification algorithm. The `main.py` and `main_for_hand.py` scripts replace the test recording too after running them, so we recommend recording new test recording for each time you wamt to check its effectiveness.
 3) Press '3' - "Check similarity" - To check the similarity of the test recording with each one of the people on the train-set. calculates and then returns a histogram of the similarity precentage for the test with each one of the people on the train-set.
