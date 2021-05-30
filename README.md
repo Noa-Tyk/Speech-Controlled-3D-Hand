@@ -34,7 +34,8 @@ If the user regularly has specific people in his daily environment, we suggest h
 3) "Check similarity" - To check the similarity of the test recording with each one of the people on the train-set. calculates and then returns a histogram of the similarity precentage for the test with each one of the people on the train-set.
 
 ## Run The Program
-To run the main script - run this line: `python main.py`.<br/>
+To run the main script without the hand - run this line: `python main.py`.<br/>
+To run the main script with the hand - run this line: `python main_for_hand.py`.<br/>
 
 ## Parameter Changes
 To change specific parameters- enter the `params.py` file and save your changes. <br/>
